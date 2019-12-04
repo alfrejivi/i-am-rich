@@ -1,4 +1,4 @@
-# i_am_rich
+# I am rich
 
 An app that proves you are rich
 
